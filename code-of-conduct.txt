@@ -1,0 +1,10 @@
+﻿Code of Conduct/Team Contract
+
+
+1. As a member, I will attend all meetings with the group.
+   1. If I cannot attend, I will send a notification as soon as possible to the other members to let them know.
+2. During the meetings, I will be actively participating.
+3. I will make an effort to understand other members’ work.
+   1. If I do not understand something, I will ask them for clarification.
+4. If someone asks any questions about my work, it is my responsibility to answer those questions.
+5. For communication, I will use the Slack channel group-6.

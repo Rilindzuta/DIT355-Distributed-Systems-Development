@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "engines": {
+    "node": "12.x"
+  },
+  "private": true,
+  "description": "Backend server for distributed system.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "node_modules/.bin/nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.chalmers.se/courses/dit355/2020/group-6/backend.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "mqtt": "^4.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "npm-run-all": "^4.1.5"
+  }
+}
