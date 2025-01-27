@@ -9,17 +9,6 @@ This is accomplished by creating a web page where end-users can;
 2. View dates where the selected dentist has available time slots for appointments.
 3. Book an appointment with the selected dentist.
 
-#### Team members:
-
-* Karim Abdeldayem 
-* Alexander Hultén 
-* Ali Karkhaneh
-* Karam Khatib
-* Jakob Roseke
-* Zhijie Wei
-* Rilind Zuta
-
-
 #### Links to relevant resources:
 
 * [Trello board](https://trello.com/b/Lbiy2ndE/dit-355-2020-team-6)
