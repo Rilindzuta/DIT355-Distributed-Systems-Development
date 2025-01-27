@@ -81,15 +81,6 @@ We will be using Scrum as our main process as it suits the way we develop this p
 
 *Could be changed if needed*
 
-#### Development team
-* Karam Khatib
-* Jakob Roseke
-* Alexander Hultén
-* Rilind Zuta
-* Zhijie Wei
-* Ali Karkhaneh
-* Karim Abdeldayem
-
 #### We will have weekly meetings on
 * Mondays at 13:00
 * Project meeting with POs on Wednesdays at 11:30
